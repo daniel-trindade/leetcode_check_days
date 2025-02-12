@@ -1,2 +1,5 @@
-teste;
-.vscode;
+# Ignorar a pasta .vscode
+.vscode/
+
+# Ignorar o arquivo teste
+teste
